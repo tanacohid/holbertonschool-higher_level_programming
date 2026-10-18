@@ -1,5 +1,5 @@
+#!/usr/init/python3
 #!/usr/bin/env python3
-
 """
 Script qui change le nom de l'état dont l'id est 2
 en "New Mexico" dans la base de données hbtn_0e_6_usa.
