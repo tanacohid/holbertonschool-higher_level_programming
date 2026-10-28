@@ -6,5 +6,5 @@ if (isNaN(num)) {
   console.log('Missing number of occurrences');
 } else {
   for (let count = 0; num < count; count++);
-  console.log('C is fun');
+    console.log('C is fun');
 }
